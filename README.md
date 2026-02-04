@@ -16,14 +16,16 @@ Version-controlled development using Git & GitHub
 
 🛠️ Tech Stack
 Frontend
-React.js
-JavaScript
-HTML5
+
+React.js,
+JavaScript,
+HTML5,
 CSS3
 
 Backend
-Java
-Spring Boot
+
+Java,
+Spring Boot,
 REST APIs
 
 Database
